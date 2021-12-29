@@ -118,4 +118,4 @@ AffiliateWP looks and feels like WordPress; seamlessly integrated. It lives on y
 
 ### World-class support
 
-If you require assistance, our support is considered the best in the industry. We’re here to help!
+If you require assistance, AffiliateWP support is considered the best in the industry.
